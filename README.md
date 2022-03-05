@@ -28,7 +28,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-Get pyrogram (p)  `SESSION` from here:
+Get pyrofgram (p)  `SESSION` from here:
 
 [![Run on Repl.it](https://repl.it/badge/github/Makoto-XD/Session-Generator)](https://replit.com/@Makoto-XD/Session-Generator)
 
